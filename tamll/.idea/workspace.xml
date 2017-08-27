@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba64703b-778f-41d2-8fac-0029c2561915" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shoppingCar/OrderContent.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,52 +26,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="productImg.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/product/productImg.html">
+      <file leaf-file-name="OrderContent.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shoppingCar/OrderContent.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="6" column="66" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="6" selection-end-column="66" />
+            <state relative-caret-position="-267">
+              <caret line="88" column="24" lean-forward="true" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
               <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="basicInfo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/product/basicInfo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="52" column="29" lean-forward="false" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
-              <folding>
-                <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="peoductDetailInfo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/product/peoductDetailInfo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="80" column="24" lean-forward="true" selection-start-line="80" selection-start-column="24" selection-end-line="80" selection-end-column="24" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settleAccount.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/shoppingCar/settleAccount.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-              <folding>
-                <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -139,6 +102,7 @@
         <option value="$PROJECT_DIR$/product/totalComment.html" />
         <option value="$PROJECT_DIR$/product/shoppingCar.html" />
         <option value="$PROJECT_DIR$/shoppingCar/settleAccount.html" />
+        <option value="$PROJECT_DIR$/shoppingCar/OrderContent.html" />
       </list>
     </option>
   </component>
@@ -176,6 +140,11 @@
             <path>
               <item name="tamll" type="b2602c69:ProjectViewProjectNode" />
               <item name="tamll" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tamll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tamll" type="462c0819:PsiDirectoryNode" />
+              <item name="shoppingCar" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,7 +191,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.settleAccount.html">
+  <component name="RunManager" selected="JavaScript Debug.OrderContent.html">
+    <configuration name="OrderContent.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tamll/shoppingCar/OrderContent.html" />
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -581,22 +551,21 @@
     <configuration name="basicInfo.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tamll/product/basicInfo.html" />
     <configuration name="peoductDetailInfo.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tamll/product/peoductDetailInfo.html" />
     <configuration name="productImg.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tamll/product/productImg.html" />
-    <configuration name="productList.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tamll/category/productList.html" />
     <configuration name="settleAccount.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tamll/shoppingCar/settleAccount.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.productList.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.productImg.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.basicInfo.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.peoductDetailInfo.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.settleAccount.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.productImg.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.basicInfo.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.peoductDetailInfo.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.settleAccount.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.OrderContent.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.settleAccount.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.peoductDetailInfo.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.basicInfo.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.productImg.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.productList.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.OrderContent.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.settleAccount.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.peoductDetailInfo.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.basicInfo.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.productImg.html" />
       </list>
     </recent_temporary>
   </component>
@@ -612,7 +581,7 @@
       <updated>1503757374178</updated>
       <workItem from="1503757376498" duration="3828000" />
       <workItem from="1503761769802" duration="135000" />
-      <workItem from="1503816615914" duration="17204000" />
+      <workItem from="1503816615914" duration="17899000" />
     </task>
     <task id="LOCAL-00001" summary="添加顶部公共导航页">
       <created>1503760411061</created>
@@ -698,16 +667,23 @@
       <option name="project" value="LOCAL" />
       <updated>1503840010139</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="购物车结算界面">
+      <created>1503840041428</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1503840041428</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21167000" />
+    <option name="totallyTimeSpent" value="21862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25447762" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25447762" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1114,12 +1090,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shoppingCar/settleAccount.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        <state relative-caret-position="198">
+          <caret line="6" column="66" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="6" selection-end-column="66" />
           <folding>
             <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingCar/OrderContent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-267">
+          <caret line="88" column="24" lean-forward="true" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
