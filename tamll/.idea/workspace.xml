@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba64703b-778f-41d2-8fac-0029c2561915" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/product/totalComment.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shoppingCar/settleAccount.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shoppingCar/settleAccount.html" afterPath="$PROJECT_DIR$/shoppingCar/settleAccount.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -64,43 +63,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="totalComment.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/product/totalComment.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="6" column="66" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="6" selection-end-column="66" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#3;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#4;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#5;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#6;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#7;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#8;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#9;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#10;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#11;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#12;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#13;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#14;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#15;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#16;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#17;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#18;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="settleAccount.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shoppingCar/settleAccount.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="6" column="66" lean-forward="false" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
-              <folding />
+            <state relative-caret-position="195">
+              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -251,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.peoductDetailInfo.html">
+  <component name="RunManager" selected="JavaScript Debug.settleAccount.html">
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -608,24 +580,24 @@
       <method />
     </configuration>
     <configuration name="basicInfo.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tamll/product/basicInfo.html" />
-    <configuration name="categoryPage.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tamll/category/categoryPage.html" />
     <configuration name="peoductDetailInfo.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tamll/product/peoductDetailInfo.html" />
     <configuration name="productImg.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tamll/product/productImg.html" />
     <configuration name="productList.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tamll/category/productList.html" />
+    <configuration name="settleAccount.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tamll/shoppingCar/settleAccount.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.categoryPage.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.productList.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.productImg.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.basicInfo.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.peoductDetailInfo.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.productList.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.productImg.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.basicInfo.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.peoductDetailInfo.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.settleAccount.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.peoductDetailInfo.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.basicInfo.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.productImg.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.productList.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.categoryPage.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.settleAccount.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.peoductDetailInfo.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.basicInfo.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.productImg.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.productList.html" />
       </list>
     </recent_temporary>
   </component>
@@ -641,7 +613,7 @@
       <updated>1503757374178</updated>
       <workItem from="1503757376498" duration="3828000" />
       <workItem from="1503761769802" duration="135000" />
-      <workItem from="1503816615914" duration="16641000" />
+      <workItem from="1503816615914" duration="17141000" />
     </task>
     <task id="LOCAL-00001" summary="添加顶部公共导航页">
       <created>1503760411061</created>
@@ -713,11 +685,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503838448876</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="添加评价总数">
+      <created>1503839510108</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1503839510108</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20604000" />
+    <option name="totallyTimeSpent" value="21104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
@@ -768,7 +747,8 @@
     <MESSAGE value="添加产品图片界面" />
     <MESSAGE value="添加产品基本信息界面" />
     <MESSAGE value="添加产品详细界面" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加产品详细界面" />
+    <MESSAGE value="添加评价总数" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加评价总数" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1115,11 +1095,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/site/cartSelected.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/site/cartNotSelected.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/shoppingCar/settleAccount.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" column="66" lean-forward="false" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
-          <folding />
+        <state relative-caret-position="195">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
