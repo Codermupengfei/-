@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba64703b-778f-41d2-8fac-0029c2561915" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/other/confirmReceive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/other/confirmReceive2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/other/receiveSuccess.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/other/paySuccess.html" afterPath="$PROJECT_DIR$/other/paySuccess.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="paySuccess.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/other/paySuccess.html">
+      <file leaf-file-name="receiveSuccess.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/other/receiveSuccess.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+            <state relative-caret-position="162">
+              <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -106,6 +108,9 @@
         <option value="$PROJECT_DIR$/settleMentPage/confirmOrder.html" />
         <option value="$PROJECT_DIR$/other/pay.html" />
         <option value="$PROJECT_DIR$/other/paySuccess.html" />
+        <option value="$PROJECT_DIR$/other/confirmReceive.html" />
+        <option value="$PROJECT_DIR$/other/confirmReceive2.html" />
+        <option value="$PROJECT_DIR$/other/receiveSuccess.html" />
       </list>
     </option>
   </component>
@@ -584,7 +589,7 @@
       <updated>1503757374178</updated>
       <workItem from="1503757376498" duration="3828000" />
       <workItem from="1503761769802" duration="135000" />
-      <workItem from="1503816615914" duration="20838000" />
+      <workItem from="1503816615914" duration="21375000" />
     </task>
     <task id="LOCAL-00001" summary="添加顶部公共导航页">
       <created>1503760411061</created>
@@ -705,16 +710,23 @@
       <option name="project" value="LOCAL" />
       <updated>1503843242297</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="添加支付成功界面">
+      <created>1503843747057</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1503843747057</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24801000" />
+    <option name="totallyTimeSpent" value="25338000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25447762" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25447762" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -765,37 +777,14 @@
     <MESSAGE value="购物车界面" />
     <MESSAGE value="添加结算界面" />
     <MESSAGE value="添加支付界面" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加支付界面" />
+    <MESSAGE value="添加支付成功界面" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加支付成功界面" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/publicFile/topNavigation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="957">
-          <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/blog.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS/jquery-3.2.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1452">
@@ -1195,8 +1184,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/other/paySuccess.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        <state relative-caret-position="198">
+          <caret line="6" column="66" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="6" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/confirmReceive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="66" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="6" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/confirmReceive2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="66" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="6" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/receiveSuccess.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
           <folding />
         </state>
       </provider>
