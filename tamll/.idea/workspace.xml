@@ -2,29 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba64703b-778f-41d2-8fac-0029c2561915" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lunbo/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lunbo/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lunbo/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lunbo/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/bootstrap/3.0.3/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/bootstrap/3.0.3/bootstrap.min.old.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/bootstrap/3.3.5/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/bootstrap/3.3.5/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/bootstrap/3.3.5/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/bootstrap/3.3.6/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/bootstrap/3.3.6/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/bootstrap/3.3.6/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/jquery/1.11.2/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/jquery/1.9.1/jquery-1.9.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/jquery/2.0.0/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mianPage/Rotation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mianPage/categoryMenu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/category/68.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/category/72.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productDetail/8621.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productDetail/8622.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productDetail/8623.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productDetail/8624.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productDetail/8625.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productDetail/8626.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle/1456.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle/1785.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle/1807.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle/1829.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle/1873.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle/1906.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle/1917.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle/1928.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle/8619.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle/8620.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle/8697.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/10148.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/10159.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/10170.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/10181.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/10192.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/1280.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/1291.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/1302.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/1313.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/1324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/1917.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/3182.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/3665.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/3676.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/3752.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/3796.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/4206.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/5848.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/632.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/643.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/654.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/665.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/6651.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/676.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/6981.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/6992.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/7003.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/7014.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/7025.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/7036.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/7047.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/7058.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/7674.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/8510.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/8917.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/9499.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/9510.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/9521.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/9532.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_middle/9543.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_small/8616.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_small/8617.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_small/8618.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_small/8619.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/productSingle_small/8620.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/category/categoryPage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/category/productList.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mianPage/homepageCategoryProducts.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publicFile/Search.html" afterPath="$PROJECT_DIR$/publicFile/Search.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publicFile/foot.html" afterPath="$PROJECT_DIR$/publicFile/foot.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publicFile/foot2.html" afterPath="$PROJECT_DIR$/publicFile/foot2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publicFile/simpleSearch.html" afterPath="$PROJECT_DIR$/publicFile/simpleSearch.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publicFile/topNavigation.html" afterPath="$PROJECT_DIR$/publicFile/topNavigation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mianPage/categoryMenu.html" afterPath="$PROJECT_DIR$/mianPage/categoryMenu.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,11 +93,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="categoryMenu.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Rotation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mianPage/Rotation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-149">
+              <caret line="90" column="22" lean-forward="false" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homepageCategoryProducts.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mianPage/homepageCategoryProducts.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="56" column="21" lean-forward="false" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+              <folding>
+                <element signature="n#style#0;n#div#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#6;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="categoryPage.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/category/categoryPage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="6" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="productList.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/category/productList.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2640">
+              <caret line="106" column="15" lean-forward="false" selection-start-line="106" selection-start-column="15" selection-end-line="106" selection-end-column="15" />
+              <folding>
+                <element signature="n#style#0;n#div#8;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="categoryMenu.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mianPage/categoryMenu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="63" column="5" lean-forward="false" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+            <state relative-caret-position="198">
+              <caret line="6" column="34" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="6" selection-end-column="66" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -80,10 +174,12 @@
     <findStrings>
       <find>slash</find>
       <find>&lt;script src=&quot;../JS/jquery/2.0.0/jquery.min.js&quot;&gt;&lt;/script&gt;</find>
-      <find>http://how2j.cn/tmall</find>
       <find>seperator</find>
       <find>productsAsideCategorys</find>
       <find>eachCategory</find>
+      <find>categorySortBarTable</find>
+      <find>background-color: #F1EDEC;</find>
+      <find>http://how2j.cn/tmall</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -119,6 +215,9 @@
         <option value="$PROJECT_DIR$/mianPage/test.html" />
         <option value="$PROJECT_DIR$/mianPage/Rotation.html" />
         <option value="$PROJECT_DIR$/mianPage/categoryMenu.html" />
+        <option value="$PROJECT_DIR$/mianPage/homepageCategoryProducts.html" />
+        <option value="$PROJECT_DIR$/category/categoryPage.html" />
+        <option value="$PROJECT_DIR$/category/productList.html" />
       </list>
     </option>
   </component>
@@ -177,11 +276,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\2017下\JAVA学习\com\tamll\img" />
       <recent name="F:\2017下\JAVA学习\com\tamll\JS" />
       <recent name="F:\2017下\JAVA学习\com\tamll\bootstrap\3.3.6" />
       <recent name="F:\2017下\JAVA学习\com\tamll\bootstrap" />
       <recent name="F:\2017下\JAVA学习\com\tamll\bootstrap\fonts" />
-      <recent name="F:\2017下\JAVA学习\com\tamll" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\2017下\JAVA学习\com\tamll\img" />
@@ -202,7 +301,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.categoryMenu.html">
+  <component name="RunManager" selected="JavaScript Debug.productList.html">
     <configuration name="Rotation.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tamll/mianPage/Rotation.html" />
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
@@ -560,23 +659,23 @@
       <method />
     </configuration>
     <configuration name="categoryMenu.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tamll/mianPage/categoryMenu.html" />
-    <configuration name="foot2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tamll/publicFile/foot2.html" />
-    <configuration name="foot.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tamll/publicFile/foot.html" />
-    <configuration name="test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tamll/mianPage/test.html" />
+    <configuration name="categoryPage.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tamll/category/categoryPage.html" />
+    <configuration name="homepageCategoryProducts.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tamll/mianPage/homepageCategoryProducts.html" />
+    <configuration name="productList.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tamll/category/productList.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.foot.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.foot2.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.categoryMenu.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Rotation.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.categoryMenu.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Rotation.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.homepageCategoryProducts.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.categoryPage.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.productList.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.categoryMenu.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Rotation.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.foot2.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.foot.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.productList.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.categoryPage.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.categoryMenu.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.homepageCategoryProducts.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Rotation.html" />
       </list>
     </recent_temporary>
   </component>
@@ -592,7 +691,7 @@
       <updated>1503757374178</updated>
       <workItem from="1503757376498" duration="3828000" />
       <workItem from="1503761769802" duration="135000" />
-      <workItem from="1503816615914" duration="7839000" />
+      <workItem from="1503816615914" duration="12023000" />
     </task>
     <task id="LOCAL-00001" summary="添加顶部公共导航页">
       <created>1503760411061</created>
@@ -629,11 +728,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503818901553</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="添加主界面导航分类界面">
+      <created>1503824503815</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1503824503815</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11802000" />
+    <option name="totallyTimeSpent" value="15986000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
@@ -679,7 +785,8 @@
     <MESSAGE value="添加顶部公共导航页" />
     <MESSAGE value="删除search文件" />
     <MESSAGE value="添加页脚界面" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加页脚界面" />
+    <MESSAGE value="添加主界面导航分类界面" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加主界面导航分类界面" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -843,30 +950,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/publicFile/Search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="53" lean-forward="false" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publicFile/simpleSearch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="53" lean-forward="false" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publicFile/topNavigation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="53" lean-forward="false" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mianPage/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1749">
@@ -883,10 +966,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/publicFile/topNavigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="53" lean-forward="false" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publicFile/simpleSearch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1171">
+          <caret line="96" column="7" lean-forward="true" selection-start-line="96" selection-start-column="7" selection-end-line="96" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publicFile/Search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2096">
+          <caret line="5" column="53" lean-forward="false" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mianPage/Rotation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="5" selection-end-column="71" />
+        <state relative-caret-position="-149">
+          <caret line="90" column="22" lean-forward="false" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
@@ -894,10 +1003,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mianPage/homepageCategoryProducts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="56" column="21" lean-forward="false" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#div#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mianPage/categoryMenu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="63" column="5" lean-forward="false" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+        <state relative-caret-position="198">
+          <caret line="6" column="34" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="6" selection-end-column="66" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -908,6 +1028,29 @@
             <element signature="n#style#0;n#a#6;n#div#6;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#3;n#div#7;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/category/72.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category/categoryPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="6" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category/productList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2640">
+          <caret line="106" column="15" lean-forward="false" selection-start-line="106" selection-start-column="15" selection-end-line="106" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#div#8;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
